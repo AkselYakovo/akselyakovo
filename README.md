@@ -1,20 +1,22 @@
 ![Untitled-1](https://github.com/AkselYakovo/akselyakovo/assets/122695920/7338cbd1-5a1d-45c0-b52c-38c3d864e8f3)
 <div align="center">
-  <h2>Axel Jacobo | <em>Web Developper</em><sup> 🚀</sup></h2>
+  <h2>Axel Jacobo | <em>Web Developer</em><sup> 🚀</sup></h2>
   <img src='https://img.shields.io/badge/-Currently%20Learning:-fe5751?style=flat'/>
   <img src='https://img.shields.io/badge/-Node.JS-0c0c0c??style=flat&logo=nodedotjs'/>
   <img src='https://img.shields.io/badge/-Express.JS-157ebf??style=flat&logo=express'/>
 </div>
 
-<h3>About Me:</h3>
+### About Me:
 
-Hi there 🙋🏻‍♂️ My name is Axel Jacobo & I'm a **self-taught** web developer from **Mexico** who's been interesteed on web development since I was 15 years old 🤓.
+Hi there 🙋🏻‍♂️ My name is Axel Jacobo, and I'm a **self-taught** web developer from Mexico who's been interested in web development since I was 15 years old (I am 23 years old atm).
 
 ### My humble beginnings:
-My first dabble with web development as a hobby was back on 2015 when I was 15 years old & it involved a youtube course on HTML & CSS. Later on comes the javascript & php era that showed me the wonders of dynamic content & that the creation of user-interactable web pages wasn't that complicated.
 
-### Where do I stand at nowadays?
-After all of these years of successes and failures I have mainted myself studying new topics regarding modern web development tools & its best practices. I am aware of the unique nature of this craft & how important is to be able to adapt to anything that might become the next big thing! 
+My first dabble with web development as a hobby was back in 2015, when I was 15 years old, and it involved a YouTube course on **HTML** & **CSS**. Later on, the **Javascript** and **PHP** eras showed me the wonders of dynamic content and that the creation of user-interactable web pages wasn't that complicated.
+
+### Where do I stand nowadays?
+
+After all of these years of successes and failures, I have maintained myself studying new topics regarding **modern web development tools** and their **best practices**. I am aware of the unique nature of this craft and how important it is to be able to adapt to anything that might become the next big thing!
 
 ---
 <h3 align="left">Current Stack & Tools:</h3>
