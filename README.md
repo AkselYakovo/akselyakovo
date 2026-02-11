@@ -2,8 +2,7 @@
 <div align="center">
   <h2>Axel Jacobo | <em>Web Developer</em><sup> 🚀</sup></h2>
   <img src='https://img.shields.io/badge/-Currently%20Learning:-fe5751?style=flat'/>
-  <img src='https://img.shields.io/badge/-Laravel-0c0c0c??style=flat&logo=laravel'/>
-  <img src='https://img.shields.io/badge/-ReactJS-157ebf??style=flat&logo=react'/>
+  <img src='https://img.shields.io/badge/-TypeScript-fff??style=flat&logo=typescript'/>
 </div>
 
 ### About Me:
